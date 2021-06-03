@@ -1,0 +1,26 @@
+{
+    "name": "UNIHelper",
+    "version": "0.0.1",
+    "description": "Slightly improving uniswap UI/UX",
+    "permissions": [
+        "activeTab",
+        "tabs"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://info.uniswap.org/*"
+            ],
+            "run_at": "document_end",
+            "js": [
+                "helpers.js",
+                "config.js",
+                "unihelper.js"
+            ]
+        }
+    ],
+    "manifest_version": 3
+}
