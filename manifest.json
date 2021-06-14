@@ -11,9 +11,7 @@
     "content_scripts": [
         {
             "matches": [
-                "https://info.uniswap.org/#/",
-                "https://info.uniswap.org/#/pools",
-                "https://info.uniswap.org/#/tokens"
+                "https://info.uniswap.org/*"
             ],
             "run_at": "document_end",
             "js": [
