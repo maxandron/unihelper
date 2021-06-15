@@ -1,6 +1,6 @@
 {
     "name": "UNIHelper",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Slightly improving uniswap UI/UX",
     "permissions": [
         "tabs"

@@ -7,6 +7,19 @@ Now you will be able to see at a glance which pools are worth your time.
 
 Just install the extension and the column will appear.
 
+## Installation
+
+Installing via the Chrome web store is the easiest
+<https://chrome.google.com/webstore/detail/unihelper/kmngpedmplhoikamacadipoimanmhnno>
+
+For manual installation:
+
+1. clone the source code
+2. visit chrome://extensions
+3. Enable developer mode
+4. Click on "Load unpacked extension" and choose the folder containing the
+   source code.
+
 ## APR Calculation
 
 The estimation is based on the last 7 days, by using the data already inside the
