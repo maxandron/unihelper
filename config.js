@@ -1,7 +1,7 @@
-const FEES_CLASS = "JBPWi";
-const ROW_CLASS = "cSCcBm";
-const PREV_PAGE_CLASS = "euWDGp"; // Actually for deactivated arrow
-const NEXT_PAGE_CLASS = "fPculi"; // Actually for activated arrow
+const FEES_CLASS = "dsySXo";
+const ROW_CLASS = "eNmuHn"; // A div under an a
+const PREV_PAGE_CLASS = "dNJfRH"; // Actually for deactivated arrow
+const NEXT_PAGE_CLASS = "gLxNWy"; // Actually for activated arrow
 const POOLS_TABLE_CLASS = "klmLHi";
 const ARP_VALUE_CLASS = "unihelper-v";
 const ARP_HEADER_CLASS = "unihelper-h";
